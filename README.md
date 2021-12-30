@@ -1,0 +1,2 @@
+# ebncoin
+EBN coin
