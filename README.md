@@ -1,2 +1,1 @@
-# ebncoin
-EBN coin
+# EBNgostcoin
